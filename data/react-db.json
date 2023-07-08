@@ -1,0 +1,13 @@
+{
+    "products": [
+        { "id": 1, "productName": "Apple", "Price": 1200, "Quantity": 0 },
+        { "id": 2, "productName": "Orange", "Price": 2100, "Quantity": 0 },
+        { "id": 3, "productName": "PineApple", "Price": 3000, "Quantity": 0 },
+        { "id": 4, "productName": "Water Melon", "Price": 6000, "Quantity": 0 },
+        { "id": 5, "productName": "Melon", "Price": 3400, "Quantity": 0 }
+      ],
+      "users":[
+        {"id":1, "email": "admin@admin.com","password":"admin"}
+      ]
+    
+}
